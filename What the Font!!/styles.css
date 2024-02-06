@@ -1,0 +1,55 @@
+body {
+    background: linear-gradient(to right, #0f4c75, #00c2ff); /* Gradient background */
+    color: #fff; /* White text color */
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: space-between;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
+.Grp1 {
+    font-family: 'Protest Riot', sans-serif;
+    font-size: 18px;
+    margin: 10px;
+    color: #e5e5e5;
+}
+
+.Grp2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 10px;
+    position: absolute;
+    right: 1px;
+    color: #00ffcc;
+}
+
+.Grp3 {
+    font-family: 'Protest Guerrilla', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    margin: 10px;
+    color: #ffe600;
+}
+
+.Grp4 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 18px;
+    margin: 10px;
+    position: absolute;
+    right: 150px;
+    top: 500px;
+    color: #ff66b2;
+}
+
+h1 {
+    font-family: 'Sixtyfour', sans-serif;
+    position: absolute;
+    left: 300px;
+    top: 1px;
+    color: rgb(116, 17, 12);
+}
